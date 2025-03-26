@@ -1,9 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Labnix from './Labnix';
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      <Labnix />
     </div>
   );
 }

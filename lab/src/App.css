@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+footer {
+  background-color: #020522;
+  color: #9b9d9e;
+}
+
+footer ul li {
+  color: #9b9d9e;
+}

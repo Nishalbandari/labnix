@@ -1,0 +1,7 @@
+1) Kindly transform this image template into a React single-page website.
+2) Website Must be responisve 
+3) Color code 
+   Green : #2f8e94
+   Black : #343e40
+4) You will find images in folder 
+5) You can use dummy text 
